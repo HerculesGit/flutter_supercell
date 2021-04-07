@@ -45,8 +45,17 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - assets/images/supercell_logo.jpg
+    - assets/images/characters_normal.jpg
+    - assets/images/characters_small.jpg
+    - assets/images/clash_of_clans_large.jpg
+    - assets/images/supercell_retail_ev_01_news_article_large.jpg
+    - assets/images/sc_id_front_page_large.jpg
+    - assets/images/clan_wars_news_article_0_large.jpg
+    - assets/images/bg_wmg_brawlstars_large.jpg
+    - assets/images/fp_wmg_brawlstars.png
+    - assets/images/bg_fp_nextstep_large.jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
